@@ -1,2 +1,2 @@
 # dotfiles
-My Arch Linux configuration files
+My Void Linux configuration files
